@@ -8,3 +8,4 @@ PH_Solutions_2017.pdf
 03_Solved_Problems.pdf
 04_Solved_Problems.pdf
 FourierSeries.pdf
+Formulas.pdf
